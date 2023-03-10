@@ -34,7 +34,7 @@ docs:
   file: documents/APM32F407VG MINI Board User Manual V1.1.pdf
   title: APM32F407VG MINI Board User Manual
 - category: sheet
-  file: documents/APM32F405xG 407xExG datasheet V1.3.pdf
+  file: documents/APM32F405xG 407xExG datasheet V1.5.pdf
   title: APM32F405xG 407xExG datasheet
 - category: other
   file: documents/APM32F407VG MINIBOARD V1.0.SchDoc.pdf
