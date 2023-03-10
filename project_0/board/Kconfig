@@ -1,6 +1,6 @@
 menu "Hardware Drivers Config"
 
-config SOC_APM32F407VG
+config SOC_APM32F407IG
     bool
     select SOC_SERIES_APM32F4
     select RT_USING_COMPONENTS_INIT

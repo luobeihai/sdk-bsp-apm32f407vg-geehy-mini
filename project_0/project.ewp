@@ -77,7 +77,7 @@
         </option>
         <option>
           <name>OGChipSelectEditMenu</name>
-          <state>APM32F407VG	Geehy APM32F407VG</state>
+          <state>APM32F407IG	Geehy APM32F407IG</state>
         </option>
         <option>
           <name>GenLowLevelInterface</name>
@@ -137,7 +137,7 @@
         </option>
         <option>
           <name>GFPUDeviceSlave</name>
-          <state>APM32F407VG	Geehy APM32F407VG</state>
+          <state>APM32F407IG	Geehy APM32F407IG</state>
         </option>
         <option>
           <name>FPU2</name>
